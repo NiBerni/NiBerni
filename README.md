@@ -21,4 +21,4 @@ When I'm not writing code or planning database architectures, you can usually fi
 - 🤿 Scuba diving 
 
 ---
-📫 **How to reach me:** bernhardnickel@hotmail.de
+📫 **How to reach me:** nickelb1988@gmail.com
