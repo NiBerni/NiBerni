@@ -51,7 +51,7 @@ Translating **7.5 years of medical PCR diagnostics and laboratory automation** i
 
 ### ⚡ Outside of Coding
 When I'm not designing backend systems or debugging database schemas, you can usually find me:
-- 💧 Building custom water-cooled PCs with distroplates, flow/temperature sensors, fan curves & telemetry dashboards
+- 💧 Building and tuning custom water-cooled PCs & hardware telemetry setups
 - 🤿 Scuba diving (Open Water & Advanced)
 - 🐕 Out and about with my rescue dog Finte, cooking from scratch, or tinkering with camping gear
 
