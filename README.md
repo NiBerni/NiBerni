@@ -1,24 +1,29 @@
 # Hi there, I'm Berni 👋
 
-With a strong foundation in medical PCR diagnostics, I am translating over seven years of experience in laboratory automation into backend software engineering. Currently specializing in Back-End Development, Python, and modular software architecture. I love building robust APIs, streamlining server-side data processing, and solving real-world engineering problems. Always eager to build scalable infrastructure and optimize existing workflows!
+Translating **7.5 years of medical PCR diagnostics and laboratory automation** into **Back-End Software Engineering**. I build robust REST APIs, data-driven backend systems, and modular Python architectures—bridging laboratory workflows, LIMS/analytics tooling, and local-first software engineering.
 
 ### 🚀 About Me
-- 🧬 **Background:** Biochemistry & Lab Automation turned Back-End Developer
-- ⚙️ **Focus:** Python, Object-Oriented Programming (OOP) & Modular Architecture
-- 🔬 **Interests:** Laboratory Data Automation & API Design
-- 🎓 **Currently:** Upskilling and honing my craft at [Masterschool](https://www.masterschool.com)
-- 💻 **Recent Project:** Developed backend infrastructure for a ["Higher-Lower" like game](https://github.com/NiBerni/GuessIt.git) during a Masterschool Hackathon
-- 🤝 **Collaboration:** Open to collaborating on data-driven infrastructure projects
+- 🧬 **Background:** Biochemistry (CTA) & 7.5 years in molecular PCR diagnostics / lab automation turned Back-End Developer
+- ⚙️ **Focus:** Python (3.12–3.14), RESTful APIs, Relational Databases & Modular Architecture
+- 🔬 **Domain Sweet Spot:** Lab data workflows, LIMS integrations, analytics pipelines & privacy-first local AI tooling
+- 🎓 **Education & Upskilling:** Back-End Software Engineering at [Masterschool](https://www.masterschool.com) (job-ready Back-End track completed), alongside IHK project management training
+- 💻 **Featured Projects & Current Builds:**
+  - **MeltCurveAnalyzer:** Modular PCR melt-curve analysis & LIMS REST API (Flask, SQLAlchemy 2.1, PostgreSQL 18, SciPy, scikit-learn, JWT RBAC, Docker Compose, GitHub Actions CI)
+  - **GuessIT:** Interactive Higher-Lower game powered by Wikipedia & Wikidata SPARQL scraping ([NiBerni/GuessIt](https://github.com/NiBerni/GuessIt.git))
+  - **Private R&D / Tooling:** Local-first LLM integrations (LM Studio), automated TDD agent workflows, and CLI-based document generation pipelines using Python & Typst
+- 🤝 **Collaboration:** Open to Back-End Engineer, Lab Automation Software, and LIMS/Data Infrastructure roles or projects (remote / hybrid, Munich & DACH)
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:** Python
-*   **Architecture & Concepts:** OOP, Modular Design, RESTful APIs
-*   **Focus Area:** Back-End Development, Data Workflows
+- **Languages & Runtime:** Python 3.12–3.14, SQL, Typst, Bash/Zsh
+- **Web & APIs:** Flask, RESTful APIs, JWT RBAC, Postman
+- **Data & Databases:** PostgreSQL 18, SQLite3, SQLAlchemy 2.1, psycopg 3, pandas, NumPy, SciPy, scikit-learn
+- **Quality, Tooling & Ops:** pytest, Ruff, Pylint, Docker / Docker Compose, Git / GitHub Actions CI, `uv`, JetBrains (PyCharm, DataGrip), Linux Mint & Windows
 
 ### ⚡ Outside of Coding
-When I'm not writing code or planning database architectures, you can usually find me:
-- 💧 Building and maintaining custom water-cooled PCs
-- 🤿 Scuba diving 
+When I'm not designing backend systems or debugging database schemas, you can usually find me:
+- 💧 Building, tuning, and water-cooling custom PCs & telemetry setups
+- 🤿 Scuba diving (Open Water & Advanced)
+- 🐕 Out and about with my rescue dog Finte, cooking from scratch, or tinkering with camping gear
 
 ---
 📫 **How to reach me:** nickelb1988@gmail.com
